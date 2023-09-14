@@ -4,9 +4,9 @@
 #### Ejecución de código ⚙️
 * Pipenv
     1. Realizar un entorno virtual. En este caso se hace uso de pipenv.
-    - <code>pipenv shell</code>
+        - <code>pipenv shell</code>
     2. Instalar las librerias necesarias.
-    - <code>pipenv install --ignore-pipfile</code>
+        - <code>pipenv install --ignore-pipfile</code>
     3. Ejecutar <code>pipenv run tienda</code>
 
 * Docker
